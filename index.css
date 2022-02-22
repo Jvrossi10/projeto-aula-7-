@@ -1,0 +1,22 @@
+body {
+    background-color: #DCD4B6;
+} 
+
+h1 {
+    color: #0D289A;
+} 
+
+.job-title {
+    background-color: #0D289A; 
+    color: #a9a3f1;
+}
+
+#high {
+    color: #4554A4;
+} 
+
+ul li {
+    background-color: #333333; 
+    color: #DCD4B6; 
+    display: left; 
+}
